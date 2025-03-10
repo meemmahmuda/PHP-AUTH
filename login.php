@@ -2,7 +2,7 @@
 
 session_start();
 
-$Title = "Login";
+$Title = "Login"
 
 include 'includes/header.php';
 
